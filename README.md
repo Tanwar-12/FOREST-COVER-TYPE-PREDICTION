@@ -1,5 +1,5 @@
 # 𝙵𝙾𝚁𝙴𝚂𝚃 𝙲𝙾𝚅𝙴𝚁 𝚃𝚈𝙿𝙴 𝙿𝚁𝙴𝙳𝙸𝙲𝚃𝙸𝙾𝙽
-![image](https://github.com/Tanwar-12/FOREST-COVER-TYPE-PREDICTION/assets/110081008/864ed676-e849-4910-a1c8-669a32c35ccb)![image](https://github.com/Tanwar-12/FOREST-COVER-TYPE-PREDICTION/assets/110081008/864ed676-e849-4910-a1c8-669a32c35ccb)
+![image](https://github.com/Tanwar-12/FOREST-COVER-TYPE-PREDICTION/assets/110081008/864ed676-e849-4910-a1c8-669a32c35ccb)![image](https://github.com/Tanwar-12/FOREST-COVER-TYPE-PREDICTION/assets/110081008/864ed676-e849-4910-a1c8-669a32c35ccb)![image](https://github.com/Tanwar-12/FOREST-COVER-TYPE-PREDICTION/assets/110081008/864ed676-e849-4910-a1c8-669a32c35ccb)
 
 ## **1.𝙸𝙽𝚃𝚁𝙾𝙳𝚄𝙲𝚃𝙸𝙾𝙽**: 
 *Forests play a crucial role in maintaining ecological balance and supporting diverse ecosystems. Understanding and accurately classifying different types of forest cover is essential for effective land management, conservation efforts, and ecological research. In this project, our aim is to develop a predictive model capable of classifying forest cover types based on various geographic and environmental features.* 
