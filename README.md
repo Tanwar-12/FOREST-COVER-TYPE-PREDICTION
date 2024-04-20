@@ -218,7 +218,7 @@ numeric_columns = ['Elevation', 'Aspect', 'Slope', 'Horizontal_Distance_To_Hydro
 
 **We do not have any Categorical Columns**
 
-## 𝚂𝙿𝙻𝙸𝚃𝙸𝙽𝙶 𝚃𝙷𝙴 𝙳𝙰𝚃𝙰:
+## 𝚂𝙿𝙻𝙸𝚃𝚃𝙸𝙽𝙶 𝚃𝙷𝙴 𝙳𝙰𝚃𝙰:
 ## 10.𝙵𝙴𝙰𝚃𝚄𝚁𝙴 𝚂𝙲𝙻𝙰𝙸𝙽𝙶
 ### FEATURE ENCODING:
 - The Features are all  `Numeric`.
