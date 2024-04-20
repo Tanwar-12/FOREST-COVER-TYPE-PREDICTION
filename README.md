@@ -246,14 +246,21 @@ numeric_columns = ['Elevation', 'Aspect', 'Slope', 'Horizontal_Distance_To_Hydro
 ## 11.𝙼𝙾𝙳𝙴𝙻 𝙱𝚄𝙸𝙻𝙳𝙸𝙽𝙶 
 ### 𝙸𝙽𝙸𝚃𝙸𝙰𝙻 𝚃𝙴𝚂𝚃𝙸𝙽𝙶 𝙾𝙽 𝙲𝙻𝙰𝚂𝚂𝙸𝙵𝙸𝙴𝚁𝚂:
 
- 'Algorithm'	                     'Model Accuracy'
-0	LinearSVC             	           0.471848
-1	DecisionTreeClassifier	           0.763801
-2	LogisticRegression	               0.673167
-3	GaussianNB	                       0.585004
-4	RandomForestClassifier	           0.854985
-5	GradientBoostingClassifier	       0.795111
-6	KNNeighborsClassifier   	         0.792365
+Algorithm	Model Accuracy
+
+0.	LinearSVC	0.471848
+
+1. DecisionTreeClassifier	0.763801
+
+2. LogisticRegression	0.673167
+
+3.	GaussianNB	0.585004
+
+4.	RandomForestClassifier	0.854985
+
+5	GradientBoostingClassifier	0.795111
+
+6.	KNNeighborsClassifier	0.792365
 
 ## 𝚅𝙾𝚃𝙸𝙽𝙶 𝙲𝙻𝙰𝚂𝚂𝙸𝙵𝙴𝚁:
  precision    recall  f1-score   support
